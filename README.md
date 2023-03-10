@@ -55,13 +55,7 @@ I am excited to bring my skills and expertise to your team, and I am confident t
 
 <a href="http://www.github.com/randypol"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=randypol&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/randypol/se_project_react" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=randypol&repo=se_project_react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/randypol/se_project_aroundtheus" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=randypol&repo=se_project_aroundtheus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/randypol/se_pudding_2023" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=randypol&repo=se_pudding_2023&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/randypol/aroundtheus_react" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=randypol&repo=aroundtheus_react&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <!--
 **RandyPol/randypol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
