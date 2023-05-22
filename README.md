@@ -13,7 +13,6 @@ I am excited to bring my skills and expertise to your team, and I am confident t
 * 🌍  I'm based in Washington, DC
 * 🖥️  See my portfolio at [RandyPol.com](http://randypol.com)
 * ✉️  You can contact me at [rapo@randypol.com](mailto:rapo@randypol.com)
-* 🚀  I'm currently working on [Practicum](http://github.com/RandyPol)
 * 🧠  I'm learning Backend
 
 ### Skills
