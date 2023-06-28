@@ -6,14 +6,12 @@ Software Engineer with a Foundation in Economics
 
 As a globally-minded and versatile professional with a background in economics and a passion for technology and software engineering, I have a strong track record of delivering results in various roles and industries across multiple countries. My diverse experience includes software development, content creation, and marketing. I am skilled at developing and implementing effective sales strategies and can build strong relationships with clients and stakeholders. 
 
-Having lived in or traveled to several countries, including the USA 🇺🇸, China 🇨🇳, Dominican Republic 🇩🇴, India 🇮🇳, Canada 🇨🇦, Haiti 🇭🇹, Mexico 🇲🇽, and the United Arab Emirates 🇦🇪, I bring a unique global perspective to my work. I have helped companies drive success in various industries through my technical expertise and creative problem-solving approach.
+Having lived in or traveled to several countries, including the USA 🇺🇸, China 🇨🇳, the Dominican Republic 🇩🇴, India 🇮🇳, Canada 🇨🇦, Haiti 🇭🇹, Mexico 🇲🇽, and the United Arab Emirates 🇦🇪, I bring a unique global perspective to my work. My technical expertise and creative problem-solving approach have helped companies drive success in various industries.
 
 I am excited to bring my skills and expertise to your team, and I am confident that I can contribute value and drive success in any project or initiative. I look forward to the opportunity to work with you and help you achieve your goals.
 
 * 🌍  I'm based in Washington, DC
-* 🖥️  See my portfolio at [RandyPol.com](http://randypol.com)
 * ✉️  You can contact me at [rapo@randypol.com](mailto:rapo@randypol.com)
-* 🧠  I'm learning Backend
 
 ### Skills
 
